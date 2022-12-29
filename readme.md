@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Code, Python and SQL /MYSQL.
 - 💼 &nbsp; Working as a Team Leader for Amazon.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design , AI and DBMS.
 - ✍️ &nbsp; Pursuing Music hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
